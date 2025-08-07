@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Eloquent JavaScript",
+    "author": "Marijn Haverbeke",
+    "year": 2018
+  },
+  {
+    "id": 2,
+    "title": "You Don’t Know JS",
+    "author": "Kyle Simpson",
+    "year": 2015
+  },
+  {
+    "id": 3,
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "year": 2008
+  },
+  {
+    "id": 4,
+    "title": "JavaScript: The Good Parts",
+    "author": "Douglas Crockford",
+    "year": 2008
+  },
+  {
+    "id": 5,
+    "title": "The Pragmatic Programmer",
+    "author": "Andy Hunt and Dave Thomas",
+    "year": 1999
+  },
+  {
+    "id": 6,
+    "title": "Design Patterns",
+    "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+    "year": 1994
+  },
+  {
+    "id": 7,
+    "title": "Cracking the Coding Interview",
+    "author": "Gayle Laakmann McDowell",
+    "year": 2015
+  },
+  {
+    "id": 8,
+    "title": "Refactoring",
+    "author": "Martin Fowler",
+    "year": 1999
+  },
+  {
+    "id": 9,
+    "title": "The Mythical Man-Month",
+    "author": "Frederick P. Brooks Jr.",
+    "year": 1975
+  },
+  {
+    "id": 10,
+    "title": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen",
+    "year": 2009
+  }
+]

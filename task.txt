@@ -1,0 +1,11 @@
+REST API - JSON
+
+GET http://localhost:8000/api/books 
+
+GET http://localhost:8000/api/books/1 
+
+PUT http://localhost:8000/api/books/1 
+
+POST http://localhost:8000/api/books
+
+DELETE http://localhost:8000/api/books/1
